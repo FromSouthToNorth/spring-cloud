@@ -3,12 +3,12 @@ server:
 
 eureka:
   instance:
-    hostname: localhost # eureka 服务端的实例名称
+    hostname: eureka7001.com # eureka 服务端的实例名称
   client:
-   # false 代表不用向注册中心注册自己
-   register-with-eureka: false
-   # false 代表自己端就是注册中心，我的职责就是维护服务实例，并不需要检索服务
-   fetch-registry: false
-   service-url:
-     defaultZone: http://${eureka.instance.hostname}:${server.port}/eureks/
-     # 设置与 eureka Server 交互的地址查询服务和注册服务都需要依赖这个地址
+    # false 代表不用向注册中心注册自己
+    register-with-eureka: false
+    # false 代表自己端就是注册中心，我的职责就是维护服务实例，并不需要检索服务
+    fetch-registry: false
+    service-url:
+      defaultZone: http://eureka7002.com:7002/eureka/
+      # 设置与 eureka Server 交互的地址查询服务和注册服务都需要依赖这个地址
