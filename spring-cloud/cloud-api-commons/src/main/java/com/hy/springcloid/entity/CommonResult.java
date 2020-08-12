@@ -1,6 +1,4 @@
-package com.hy.srpingcloud.entity;
-
-import lombok.Data;
+package com.hy.springcloid.entity;
 
 public class CommonResult<T> {
 

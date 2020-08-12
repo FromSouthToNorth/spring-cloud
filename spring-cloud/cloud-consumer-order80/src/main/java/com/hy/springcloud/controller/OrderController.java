@@ -1,7 +1,7 @@
 package com.hy.springcloud.controller;
 
-import com.hy.springcloud.entity.CommonResult;
-import com.hy.springcloud.entity.Payment;
+import com.hy.springcloid.entity.CommonResult;
+import com.hy.springcloid.entity.Payment;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

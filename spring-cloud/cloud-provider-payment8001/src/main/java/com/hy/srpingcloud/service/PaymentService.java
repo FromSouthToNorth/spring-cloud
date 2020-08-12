@@ -1,6 +1,6 @@
 package com.hy.srpingcloud.service;
 
-import com.hy.srpingcloud.entity.Payment;
+import com.hy.springcloid.entity.Payment;
 
 public interface PaymentService {
 

@@ -1,4 +1,4 @@
-package com.hy.srpingcloud.entity;
+package com.hy.springcloid.entity;
 
 import java.io.Serializable;
 

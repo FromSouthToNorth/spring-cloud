@@ -1,6 +1,6 @@
 package com.hy.srpingcloud.dao;
 
-import com.hy.srpingcloud.entity.Payment;
+import com.hy.springcloid.entity.Payment;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 

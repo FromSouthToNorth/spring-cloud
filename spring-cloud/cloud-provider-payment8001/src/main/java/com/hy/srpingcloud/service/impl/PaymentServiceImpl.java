@@ -1,7 +1,7 @@
 package com.hy.srpingcloud.service.impl;
 
 import com.hy.srpingcloud.dao.PaymentDAO;
-import com.hy.srpingcloud.entity.Payment;
+import com.hy.springcloid.entity.Payment;
 import com.hy.srpingcloud.service.PaymentService;
 import org.springframework.stereotype.Service;
 

@@ -1,7 +1,7 @@
 package com.hy.srpingcloud.controller;
 
-import com.hy.srpingcloud.entity.CommonResult;
-import com.hy.srpingcloud.entity.Payment;
+import com.hy.springcloid.entity.CommonResult;
+import com.hy.springcloid.entity.Payment;
 import com.hy.srpingcloud.service.PaymentService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
