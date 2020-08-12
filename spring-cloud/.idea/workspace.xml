@@ -6,26 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="1249af0b-23a9-47f3-8e2f-a09b06fed322" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/hy/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/hy/springcloud/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/hy/springcloud/entity/CommonResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/hy/springcloud/entity/Payment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/hy/springcloud/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/hy/springcloud/controller/OrderController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/hy/springcloud/entity/CommonResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/hy/springcloud/entity/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/hy/springcloud/OrderMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/hy/springcloud/OrderMain80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/hy/springcloud/OrderMain80.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/hy/springcloud/OrderMain80.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/hy/srpingcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/hy/srpingcloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/hy/srpingcloud/dao/PaymentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/hy/srpingcloud/dao/PaymentDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/hy/srpingcloud/entity/CommonResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/hy/srpingcloud/entity/Payment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/hy/srpingcloud/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/hy/srpingcloud/service/PaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/hy/srpingcloud/service/impl/PaymentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/hy/srpingcloud/service/impl/PaymentServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/mapper/PaymentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/mapper/PaymentMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/hy/srpingcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/hy/srpingcloud/controller/PaymentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/hy/srpingcloud/dao/PaymentDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/hy/srpingcloud/dao/PaymentDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/hy/srpingcloud/entity/CommonResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/hy/srpingcloud/entity/Payment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/hy/srpingcloud/service/PaymentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/hy/srpingcloud/service/PaymentService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/hy/srpingcloud/service/impl/PaymentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/hy/srpingcloud/service/impl/PaymentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/hy/srpingcloud/PaymentMain8001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/hy/srpingcloud/PaymentMain8001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/hy/srpingcloud/PaymentMain8001.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/hy/srpingcloud/PaymentMain8001.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,6 +92,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hy.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hy.springcloud.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="cloud-consumer-order80" />
       <extension name="coverage">
@@ -131,8 +133,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.OrderMain80" />
         <item itemvalue="Spring Boot.PaymentMain8001" />
+        <item itemvalue="Spring Boot.EurekaMain7001" />
+        <item itemvalue="Spring Boot.OrderMain80" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +151,7 @@
       <workItem from="1597122596704" duration="584000" />
       <workItem from="1597123203150" duration="5293000" />
       <workItem from="1597209316251" duration="1712000" />
-      <workItem from="1597211052195" duration="1278000" />
+      <workItem from="1597211052195" duration="5280000" />
     </task>
     <servers />
   </component>
@@ -172,38 +175,38 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="718" y="187" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1597060174002" />
-    <state width="1417" height="399" key="GridCell.Tab.0.bottom" timestamp="1597211996760">
+    <state width="1417" height="525" key="GridCell.Tab.0.bottom" timestamp="1597216251368">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1417" height="399" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597211996760" />
-    <state width="1417" height="399" key="GridCell.Tab.0.center" timestamp="1597211996760">
+    <state width="1417" height="525" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597216251368" />
+    <state width="1417" height="525" key="GridCell.Tab.0.center" timestamp="1597216251368">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1417" height="399" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597211996760" />
-    <state width="1417" height="399" key="GridCell.Tab.0.left" timestamp="1597211996759">
+    <state width="1417" height="525" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597216251368" />
+    <state width="1417" height="525" key="GridCell.Tab.0.left" timestamp="1597216251368">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1417" height="399" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597211996759" />
-    <state width="1417" height="399" key="GridCell.Tab.0.right" timestamp="1597211996760">
+    <state width="1417" height="525" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597216251368" />
+    <state width="1417" height="525" key="GridCell.Tab.0.right" timestamp="1597216251368">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1417" height="399" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597211996760" />
-    <state width="1417" height="399" key="GridCell.Tab.1.bottom" timestamp="1597211996760">
+    <state width="1417" height="525" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597216251368" />
+    <state width="1417" height="525" key="GridCell.Tab.1.bottom" timestamp="1597216251368">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1417" height="399" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597211996760" />
-    <state width="1417" height="399" key="GridCell.Tab.1.center" timestamp="1597211996760">
+    <state width="1417" height="525" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597216251368" />
+    <state width="1417" height="525" key="GridCell.Tab.1.center" timestamp="1597216251368">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1417" height="399" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597211996760" />
-    <state width="1417" height="399" key="GridCell.Tab.1.left" timestamp="1597211996760">
+    <state width="1417" height="525" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597216251368" />
+    <state width="1417" height="525" key="GridCell.Tab.1.left" timestamp="1597216251368">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1417" height="399" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597211996760" />
-    <state width="1417" height="399" key="GridCell.Tab.1.right" timestamp="1597211996760">
+    <state width="1417" height="525" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597216251368" />
+    <state width="1417" height="525" key="GridCell.Tab.1.right" timestamp="1597216251368">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1417" height="399" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597211996760" />
+    <state width="1417" height="525" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597216251368" />
     <state x="746" y="223" key="IDE.errors.dialog" timestamp="1597122960937">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -212,9 +215,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="126" y="0" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1597211400645" />
-    <state x="584" y="122" width="1112" height="833" key="new project wizard" timestamp="1597210136621">
+    <state x="584" y="122" width="1112" height="833" key="new project wizard" timestamp="1597213483998">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="584" y="122" width="1112" height="833" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1597210136621" />
+    <state x="584" y="122" width="1112" height="833" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1597213483998" />
   </component>
 </project>
