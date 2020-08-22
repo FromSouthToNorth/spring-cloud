@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7197d96c-e2fb-45f7-a8ad-b9afa037a7b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/direct/Customer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fanout/Customer1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/workqueue/Customer2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/workqueue/Customer2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/workqueue/Customer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/workqueue/Customer2.class" afterDir="false" />
-    </list>
+    <list default="true" id="7197d96c-e2fb-45f7-a8ad-b9afa037a7b6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,19 +112,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Provider" />
@@ -155,6 +137,7 @@
       <workItem from="1597920281317" duration="89000" />
       <workItem from="1597924606570" duration="4655000" />
       <workItem from="1597969426982" duration="6859000" />
+      <workItem from="1598073299299" duration="171000" />
     </task>
     <servers />
   </component>
